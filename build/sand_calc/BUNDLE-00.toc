@@ -1,0 +1,3 @@
+([('sand_calc',
+   '/Users/hyeonseunghun/Desktop/dad/dist/sand_calc',
+   'EXECUTABLE')],)
